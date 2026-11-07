@@ -1,0 +1,42 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated datasets and database
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated ML artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
