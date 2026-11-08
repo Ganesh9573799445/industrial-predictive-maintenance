@@ -155,6 +155,25 @@ The Streamlit dashboard provides:
 - Historical risk trends.
 - Maintenance recommendations.
 
+
+### Dashboard Screenshots
+
+#### 1. Dashboard Overview
+
+![Dashboard Overview](docs/screenshots/dashboard-overview.png)
+
+#### 2. Machine Risk Distribution
+
+![Machine Risk Distribution](docs/screenshots/risk-distribution.png)
+
+#### 3. Sensor Monitoring
+
+![Sensor Monitoring](docs/screenshots/sensor-monitoring.png)
+
+#### 4. Machine Health and Details
+
+![Machine Health Details](docs/screenshots/machine-details.png)
+
 ## Project Structure
 
 ```text
